@@ -76,5 +76,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 🔗 Connect with Me
 
 Aman Chaurasia
-📧 [amanchaurasia687@gmail.com]
-🌐 [theamanchaurasia07]
+📧 amanchaurasia687@gmail.com
+🌐 theamanchaurasia07
